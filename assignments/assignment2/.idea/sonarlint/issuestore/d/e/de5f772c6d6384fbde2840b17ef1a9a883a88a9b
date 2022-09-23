@@ -1,0 +1,30 @@
+
+[	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(‹åûá
+[	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(ëˆ¼®
+`	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(‘´ü·üÿÿÿÿ
+[	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(è±¸
+[	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(ç¾¹î
+`	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ø—şèıÿÿÿÿ
+[	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(ˆ§äõ
+[	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(œÈÖô
+`	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(ÏæÀşÿÿÿÿ
+[	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(›œ´Ë
+`	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(­¿¡Ğüÿÿÿÿ
+[	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(¡£ƒ¦
+J
+java:S3740"/Provide the parametrized type for this generic.(Ä€å¹şÿÿÿÿ
+E
+java:S37405"/Provide the parametrized type for this generic.(ç¾¹î
+E
+java:S3740D"/Provide the parametrized type for this generic.(œÈÖô
+E
+java:S3740W"/Provide the parametrized type for this generic.(›œ´Ë
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î­Æ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¿á¼ôùÿÿÿÿ
+N
+java:S1874Y"3Remove this use of "newInstance"; it is deprecated.(Ş´ú¢ÿÿÿÿÿ
+B
+java:S3011g",This accessibility update should be removed.(Ó«§¯
+K
+java:S1128	".Remove this unused import 'java.util.Objects'.(¼¸õ›8ğÇıÜ¶0
