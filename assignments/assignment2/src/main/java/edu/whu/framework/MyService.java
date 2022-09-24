@@ -17,12 +17,13 @@ public class MyService {
      * @param propFile 资源文件位置
      * @throws Exception
      */
-    public static void start(String propFile) throws Exception{
+    public static Object start(String propFile) throws Exception{
         Properties properties = loadProperties(propFile);
         Class claobj = getMyClass(properties);
         Method method =getMyMethod(claobj);
         Object obj = createObj(claobj);
         invokeMethod(obj,method);
+        return obj;
     }
 
     /**
